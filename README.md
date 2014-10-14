@@ -1,6 +1,7 @@
-## ember-cli-moment
+## ember-cli-moment has been deprecated!
 
-This is an npm package that contains Moment.js library packaged as an Ember CLI Addon.
+1. if you need just momentjs, use ```bower install momentjs --save```
+2. if you need components and helpers use the addon ```npm install ember-moment --save```
 
 ### Installation
 
