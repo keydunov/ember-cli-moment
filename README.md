@@ -1,7 +1,7 @@
 ## ember-cli-moment has been deprecated!
 
-1. if you need just momentjs, use ```bower install momentjs --save```
-2. if you need components and helpers use the addon ```npm install ember-moment --save```
+1. if you need just [momentjs](https://github.com/moment/moment), use ```bower install momentjs --save```
+2. if you need components and helpers use [the addon](https://github.com/stefanpenner/ember-moment) ```npm install ember-moment --save```
 
 ### Installation
 
